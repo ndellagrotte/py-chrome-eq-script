@@ -11,11 +11,14 @@ This script is primarily for chromebook users. As far as I know, there is no chr
 
 - Run ```main.py```, the output file will be named ```eq-script-output.json```
 
-- Add the [Ears: Bass Boost, EQ Any Audio!](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik) to your browser
+- Add the [Ears: Bass Boost, EQ Any Audio!](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik) extension to your browser
 
 - Click on the extension icon and click "Import Presets" and then navigate to ```eq-script-output.json```
 
-- If the preset isnt automatically applied, it is named "test" and you should see it right next to the bass boost preset which is there by default. Click on it to apply the preset.
+- If the preset isn't automatically applied, you should be able to see it next to the bass boost preset which is there by default. It's called "test" and you can click on it to apply the preset.
+
+# Limitations
+- There is no preamp option, but there is a volume slider which you should use if you experience clipping.
 
 
 
