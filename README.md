@@ -2,7 +2,7 @@
 Use parametric EQ profiles in Google Chrome or other Chromium-based browsers.
 
 # Background
-This script is primarily for Chromebook users. As far as I know, no Chrome extension allows you to directly import parametric equalizer profiles in the Equalizer APO format, such as those provided by the AutoEQ project. This script can convert such profiles and output a preset file which can imported to the Chrome extension "[Ears: Bass Boost, EQ Any Audio!](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik)". Until a chrome extension adds this functionality by default, this is probably the only way to import a custom EQ profile to a Chromebook.
+This script is primarily for Chromebook users. As far as I know, no Chrome extension allows you to import and use parametric equalizer profiles in the Equalizer APO format, such as those provided by the AutoEQ project. This script can convert parametric EQ profiles and output a preset file which can imported to the Chrome extension "[Ears: Bass Boost, EQ Any Audio!](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik)". Until a chrome extension adds this functionality by default, this is probably the only way to import a custom EQ profile to a Chromebook.
 
 EDIT: By using the new "[AutoEQ web app](https://autoeq.app/)", it is now possible to download an AutoEQ profile that is directly compatible with the Ears extension. However, this is not a solution for those with custom parametric EQ profiles.
 
