@@ -1,4 +1,12 @@
 import json
+import sys
+
+# Check if a file path is provided as a command-line argument
+if len(sys.argv) != 2:
+    print("Usage: python3 script.py <file path of input file>")
+    exit()
+
+input_file = sys.argv[1]
 
 data = {
     "test": {
@@ -8,7 +16,7 @@ data = {
     }
 }
 
-with open("input.txt", "r") as f:
+with open(input_file, "r") as f:
     lines = f.readlines()
 
 pk_index = 1
